@@ -1,0 +1,21 @@
+.footer {
+    display: flex;
+    justify-content: space-around;
+    padding: 40px;
+    font-family: Arial, Helvetica;
+    background-color: #000;
+    color: #fff;
+}
+
+.footer-section {
+    width: 20%;
+}
+
+.footer-section h4 {
+    font-size: 18px;
+    margin-bottom: 15px;
+}
+
+.footer-section p {
+    margin: 5px 0;
+}
